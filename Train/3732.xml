@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DC</folder>
+	<filename>3732.jpg</filename>
+	<path>C:\Users\Mele\Desktop\DC\3732.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>457</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>36</ymin>
+			<xmax>401</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
